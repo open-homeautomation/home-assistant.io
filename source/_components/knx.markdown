@@ -8,7 +8,7 @@ comments: false
 sharing: true
 footer: true
 logo: knx.png
-ha_category: DIY
+ha_category: Hub
 ha_release: 0.24
 ---
 
